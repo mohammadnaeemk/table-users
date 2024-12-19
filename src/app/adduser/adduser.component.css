@@ -1,0 +1,13 @@
+.add-user-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 5rem;
+}
+form {
+  margin: auto;
+  padding: 2rem;
+  border-radius: 25px;
+  border: 2px solid #687eff;
+  background-color: #98e4ff;
+}
